@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZaxTechRecruiter
 - 👀 I’m interested in connecting with tech talents in mobile development, blockchain and more.
 - 📫 How to reach me on zax.woon@kornferry.com
-- ⚡ Fun fact: I am not Tech savvy.
+- ⚡ Fun fact: I am a Tech-Idiot.
 
 <!---
 ZaxTechRecruiter/ZaxTechRecruiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
